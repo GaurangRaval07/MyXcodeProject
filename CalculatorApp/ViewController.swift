@@ -21,7 +21,10 @@ class ViewController: UIViewController {
         
     }
     // MARK: - FUNCTION
-    
+    func ConfigureUI() {
+        let arr = ""
+        let vdfnzlvdlvfkldg = "mvdjklsnvdksvgdkvdksz k  sefnowf ebve r ev d kveaw[f "
+    }
     // MARK: - IBACTIONS
     
 }
