@@ -8,12 +8,22 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // MARK: - IBOUTLETS
+    
+    // MARK: - VARIABLES
+    
+    
+    // MARK: - MAIN METHODS
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
-
-
+    // MARK: - FUNCTION
+    
+    // MARK: - IBACTIONS
+    
 }
+
+// MARK: - TABLEVIEW DELEGATE AND DATASOURCE METHODS
+// MARK: - COLLECTIONVIEW DELEGATE AND DATASOURCE METHODS
 
