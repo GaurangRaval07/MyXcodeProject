@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     // MARK: - IBOUTLETS
+    @IBOutlet weak var tfEnterValue: UITextField!
     
     // MARK: - VARIABLES
     
@@ -16,6 +17,7 @@ class ViewController: UIViewController {
     // MARK: - MAIN METHODS
     override func viewDidLoad() {
         super.viewDidLoad()
+        tfEnterValue.inputView = UIView()
         
     }
     // MARK: - FUNCTION
@@ -26,4 +28,3 @@ class ViewController: UIViewController {
 
 // MARK: - TABLEVIEW DELEGATE AND DATASOURCE METHODS
 // MARK: - COLLECTIONVIEW DELEGATE AND DATASOURCE METHODS
-
